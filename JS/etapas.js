@@ -26,20 +26,20 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: '99',
-                nome: 'Ciclano',
-                partido: 'ABC',
-                vice: 'Cic',
+                numero: '10',
+                nome: 'Javascript',
+                partido: 'JS',
+                vice: '',
                 fotos:[
-                    {url:'99.jpg', legenda: 'Prefeito'},
-                    {url:'99_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'84.jpg', legenda: 'Prefeito'},
+                    {url:'84_2.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
-                numero: '84',
-                nome: 'Zulano',
-                partido: 'QWERTY',
-                vice: 'Zul',
+                numero: '22',
+                nome: 'Jair Bolsonaro',
+                partido: 'PL',
+                vice: 'Mourão',
                 fotos:[
                     {url:'84.jpg', legenda: 'Prefeito'},
                     {url:'84_2.jpg', legenda: 'Vice-Prefeito', small: true}
